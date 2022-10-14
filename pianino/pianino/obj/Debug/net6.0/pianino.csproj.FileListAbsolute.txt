@@ -1,0 +1,15 @@
+D:\Visual Studio projects\pianino\pianino\bin\Debug\net6.0\pianino.exe
+D:\Visual Studio projects\pianino\pianino\bin\Debug\net6.0\pianino.deps.json
+D:\Visual Studio projects\pianino\pianino\bin\Debug\net6.0\pianino.runtimeconfig.json
+D:\Visual Studio projects\pianino\pianino\bin\Debug\net6.0\pianino.dll
+D:\Visual Studio projects\pianino\pianino\bin\Debug\net6.0\pianino.pdb
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.csproj.AssemblyReference.cache
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfoInputs.cache
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.AssemblyInfo.cs
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.dll
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\refint\pianino.dll
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.pdb
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\pianino.genruntimeconfig.cache
+D:\Visual Studio projects\pianino\pianino\obj\Debug\net6.0\ref\pianino.dll
