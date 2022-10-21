@@ -1,0 +1,15 @@
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.csproj.AssemblyReference.cache
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.AssemblyInfoInputs.cache
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.AssemblyInfo.cs
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\dairy\dairy\bin\Debug\net6.0\dairy.exe
+D:\Visual Studio projects\dairy\dairy\bin\Debug\net6.0\dairy.deps.json
+D:\Visual Studio projects\dairy\dairy\bin\Debug\net6.0\dairy.runtimeconfig.json
+D:\Visual Studio projects\dairy\dairy\bin\Debug\net6.0\dairy.dll
+D:\Visual Studio projects\dairy\dairy\bin\Debug\net6.0\dairy.pdb
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.dll
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\refint\dairy.dll
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.pdb
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\dairy.genruntimeconfig.cache
+D:\Visual Studio projects\dairy\dairy\obj\Debug\net6.0\ref\dairy.dll
