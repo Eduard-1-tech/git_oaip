@@ -1,0 +1,30 @@
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\bin\Debug\net6.0\Confectionery.exe
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\bin\Debug\net6.0\Confectionery.deps.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\bin\Debug\net6.0\Confectionery.runtimeconfig.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\bin\Debug\net6.0\Confectionery.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\bin\Debug\net6.0\Confectionery.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\refint\Confectionery.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\Confectionery.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Confectionery\Confectionery\obj\Debug\net6.0\ref\Confectionery.dll
+D:\Visual Studio projects\TORT\Confectionery\bin\Debug\net6.0\Confectionery.exe
+D:\Visual Studio projects\TORT\Confectionery\bin\Debug\net6.0\Confectionery.deps.json
+D:\Visual Studio projects\TORT\Confectionery\bin\Debug\net6.0\Confectionery.runtimeconfig.json
+D:\Visual Studio projects\TORT\Confectionery\bin\Debug\net6.0\Confectionery.dll
+D:\Visual Studio projects\TORT\Confectionery\bin\Debug\net6.0\Confectionery.pdb
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.csproj.AssemblyReference.cache
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.AssemblyInfoInputs.cache
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.AssemblyInfo.cs
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.dll
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\refint\Confectionery.dll
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.pdb
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\Confectionery.genruntimeconfig.cache
+D:\Visual Studio projects\TORT\Confectionery\obj\Debug\net6.0\ref\Confectionery.dll
