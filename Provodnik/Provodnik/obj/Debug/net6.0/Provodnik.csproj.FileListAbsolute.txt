@@ -1,0 +1,30 @@
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\bin\Debug\net6.0\Explorer.exe
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\bin\Debug\net6.0\Explorer.deps.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\bin\Debug\net6.0\Explorer.runtimeconfig.json
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\bin\Debug\net6.0\Explorer.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\bin\Debug\net6.0\Explorer.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\refint\Explorer.dll
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.pdb
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\Explorer.genruntimeconfig.cache
+C:\Users\alexa\OneDrive\Рабочий стол\Практическая\Explorer\Explorer\obj\Debug\net6.0\ref\Explorer.dll
+D:\Visual Studio projects\provodnik\Explorer\bin\Debug\net6.0\Explorer.exe
+D:\Visual Studio projects\provodnik\Explorer\bin\Debug\net6.0\Explorer.deps.json
+D:\Visual Studio projects\provodnik\Explorer\bin\Debug\net6.0\Explorer.runtimeconfig.json
+D:\Visual Studio projects\provodnik\Explorer\bin\Debug\net6.0\Explorer.dll
+D:\Visual Studio projects\provodnik\Explorer\bin\Debug\net6.0\Explorer.pdb
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.csproj.AssemblyReference.cache
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.AssemblyInfoInputs.cache
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.AssemblyInfo.cs
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.dll
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\refint\Explorer.dll
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.pdb
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\Explorer.genruntimeconfig.cache
+D:\Visual Studio projects\provodnik\Explorer\obj\Debug\net6.0\ref\Explorer.dll
