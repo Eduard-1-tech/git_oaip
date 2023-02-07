@@ -1,0 +1,23 @@
+﻿<Window x:Class="krstiki_noliki.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:krstiki_noliki"
+        mc:Ignorable="d"
+        Title="крестики-нолики" Height="550" Width="600" Background="White">
+    <Grid x:Name="main_window" RenderTransformOrigin="0.5,0.813">
+        <Button x:Name="b2" HorizontalAlignment="Left" Margin="258,94,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="b2_Click" IsEnabled="False"/>
+        <Button x:Name="b1" HorizontalAlignment="Left" Margin="178,94,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="b1_Click" IsEnabled="False"/>
+        <Button x:Name="b3" HorizontalAlignment="Left" Margin="338,94,0,0" VerticalAlignment="Top" Height="80" Width="80" RenderTransformOrigin="1.55,0.638" Click="b3_Click" IsEnabled="False"/>
+        <Button x:Name="b5" HorizontalAlignment="Left" Margin="258,174,0,0" VerticalAlignment="Top" Height="79" Width="80" Click="b5_Click" IsEnabled="False"/>
+        <Button x:Name="b4" HorizontalAlignment="Left" Margin="178,174,0,0" VerticalAlignment="Top" Height="79" Width="80" Click="b4_Click" IsEnabled="False"/>
+        <Button x:Name="b6" HorizontalAlignment="Left" Margin="338,174,0,0" VerticalAlignment="Top" Height="79" Width="80" RenderTransformOrigin="1.55,0.638" Click="b6_Click" IsEnabled="False"/>
+        <Button x:Name="b8" HorizontalAlignment="Left" Margin="258,251,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="b8_Click" IsEnabled="False"/>
+        <Button x:Name="b7" HorizontalAlignment="Left" Margin="178,251,0,0" VerticalAlignment="Top" Height="80" Width="80" Click="b7_Click" IsEnabled="False"/>
+        <Button x:Name="b9" HorizontalAlignment="Left" Margin="338,251,0,0" VerticalAlignment="Top" Height="80" Width="80" RenderTransformOrigin="1.55,0.638" Click="b9_Click" IsEnabled="False"/>
+        <Button x:Name="start_game" Content="Начать игру" HorizontalAlignment="Center" Height="80" Margin="0,385,0,0" VerticalAlignment="Top" Width="162" Click="start_game_Click" IsEnabled="True"/>
+        <TextBlock x:Name="textblock" HorizontalAlignment="Left" Height="43" Margin="178,34,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240" Text=""/>
+
+    </Grid>
+</Window>
