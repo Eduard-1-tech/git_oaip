@@ -1,0 +1,20 @@
+﻿<Window x:Class="budget.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:budget"
+        mc:Ignorable="d"
+        Title="SecondWindow" Height="170" Width="250">
+    <Grid x:Name="SecondWindow1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="39*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="54*"/>
+        </Grid.RowDefinitions>
+        <TextBox x:Name="zapisi2" HorizontalAlignment="Center" Height="23" TextWrapping="Wrap" VerticalAlignment="Center" Width="200" Grid.Row="1"/>
+        <TextBlock  HorizontalAlignment="Center" Height="26" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="144"><Run Language="ru-ru" Text="имя записи"/></TextBlock>
+        <Button x:Name="dobavl2" Content="Добавить" HorizontalAlignment="Center" Height="21" VerticalAlignment="Center" Width="144" Grid.Row="2" Click="dobavl2_Click"/>
+
+    </Grid>
+</Window>
